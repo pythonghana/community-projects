@@ -63,7 +63,7 @@
 
 ## <a name="S"> </a>S
 
-* [Project Name](link to project) - Project Description. **By [Your name](link to twitter profile)**
+* Sign language to speech app(https://github.com/nodamu/Sign-Language-to-Speech) - An android app that translates sign language to speech. **By Nicholas Osafo Adamu https://twitter.com/oboi_niqo
 
 
 ## <a name="T"> </a>T
