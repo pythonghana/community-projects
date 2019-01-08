@@ -46,6 +46,8 @@
 
 ## <a name="N"> </a>N
 
+* [Ninja-Preview](https://github.com/amoh-godwin/Ninja-Preview/releases/tag/v1.0) - A desktop app built to enable UI/UX designers to preview their ```qml``` code before actually connecting it to the backend code in python, c++, or java. It is written in **Python**, **PyQt5**, and **qml**. By [Godwin Amoh](https://twitter.com/amohgyebi)
+
 
 ## <a name="O"> </a>O
 
