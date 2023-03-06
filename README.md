@@ -46,7 +46,7 @@
 
 ## <a name="N"> </a>N
 
-* [Ninja-Preview](https://github.com/amoh-godwin/Ninja-Preview/releases/tag/v1.0) - A desktop app built to enable UI/UX designers to preview their ```qml``` code before actually connecting it to the backend code in python, c++, or java. It is written in **Python**, **PyQt5**, and **qml**. By [Godwin Amoh](https://twitter.com/amohgyebi)
+* [Ninja-Preview](https://github.com/amoh-godwin/Ninja-Preview/releases/tag/v1.0) - A desktop app built to enable UI/UX designers to preview their ```qml``` code before actually connecting it to the backend code in python, c++, or java. It is written in **Python**, **PyQt5**, and **qml**. By [Amoh-Gyebi Ampofo](https://github.com/amoh-godwin)
 
 
 ## <a name="O"> </a>O
@@ -54,6 +54,8 @@
 
 
 ## <a name="P"> </a>P
+
+* [pyffmpeg](https://github.com/deuteronomy-works/pyffmpeg) - FFmpeg wrapper for Python. Becuase it's cross-platform and Python 3, it is the only option available for building cross-platform apps with ffmpeg in Python. It has over [500k](https://pepy.tech/project/pyffmpeg) downloads. By [Amoh-Gyebi Ampofo](https://github.com/amoh-godwin)
 
 
 ## <a name="Q"> </a>Q
